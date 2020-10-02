@@ -3,4 +3,4 @@ Name implies it... CS homework
 
 Kyle Elison kje237@nau.edu >>> username = AllYouCanEatSpa
 
-Chase Noble cwn36@nau.edu
+Chase Noble cwn36
